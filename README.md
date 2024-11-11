@@ -32,7 +32,7 @@ The Spam vs. Ham Classification project applies Natural Language Processing (NLP
 
    
 ### result Pages
-![spam image Page](image/spam image.png)
+![spam image Page](images/spam image.png)
 
 
-![ham image Page](image/ham image.png)
+![ham image Page](images/ham image.png)
