@@ -24,3 +24,9 @@ The Spam vs. Ham Classification project applies Natural Language Processing (NLP
 
   ```bash
   pip install -r requirements.txt
+
+
+
+###results
+(image/home_page.png)
+(image/result_page.png)
